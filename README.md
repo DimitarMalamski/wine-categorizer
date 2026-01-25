@@ -1,7 +1,7 @@
 # Wine categorizer
 This repo is used as an introduction for a course in Machine Learning and touches slightly the steps of a ML project (see: https://ictresearchmethods.nl/machine-learning/). The case focuses on a [classification](https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/) problem, utilizing the [Titanic dataset](https://archive.ics.uci.edu/dataset/109/wine) to determine to which cultivar a wine belongs to.
 
-![house-price-predictor](https://github.com/Fontys/nearest-neighbors/blob/main/BANNER.jpeg)
+![house-price-predictor](https://github.com/Fontys/wine-categorizer/blob/main/BANNER.jpeg)
 *Image by Stable Diffusion: a robot tasting wine*
 
 This notebook is intentionally designed as a foundational starting point and does not strictly adhere to established best practices as it is meant as a learning opportunity. 
@@ -28,4 +28,4 @@ This notebook is an example on how to get started, it is open for improvements a
 
 ## ⭐ Citation & Star
 If you use my work please cite and star ⭐ this repo. Thanks!
-> Konings, Hans H.H.M. (2026) "Wine categorizer" GitHub: https://github.com/Fontys/nearest-neighbors/
+> Konings, Hans H.H.M. (2026) "Wine categorizer" GitHub: https://github.com/Fontys/wine-categorizer/
