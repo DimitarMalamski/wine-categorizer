@@ -10,7 +10,7 @@ This notebook is designed as a foundational starting point and does not strictly
 Please ensure that you are familiar with the following aspects in order to successfully work with this repo and notebook.
  - You know the basics of [scikit-learn](https://scikit-learn.org/stable/getting_started.html)
  - You know the basic structure of k-Nearest Neighbors (k-NN) [theoretically](https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/) and in [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
- - You understand the reasons for making [train, validate and test](https://en.wikipedia.org/wiki/Training%2C_validation%2C_and_test_data_sets) datasets
+ - You understand the reasons for making [train-test-splits](https://www.statology.org/understanding-train-test-splits/).
  - You understand the purpose and value of classification evaluation metrics like [accuracy, precision, recall and F1-scores](https://medium.com/@ml_dl_explained/an-overview-of-classification-model-metrics-8e25432d36ea)
 
 ## 🎯 Learning opportunities
