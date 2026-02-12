@@ -24,7 +24,7 @@ The following aspects of machine learning are part of this example:
 This notebook is an example on how to get started, it is open for improvements and enhancements. Feel free to clone my work and use it to study and learn. Things to consider if you want to improve this work:
 - Domain Understanding: who would be possible stakeholders for such a case? What is the added value of such a model? Which features of a wine determine the cultivar it belongs to?
 - Data requirements: what kind of data is needed to identify the cultivar of the wine better?
-- The model only uses all features for input, though it can be more critically reviewed. Based on what reasoning would you include which features?
+- The model uses all features for input, though it can be more critically reviewed. Based on what reasoning would you include which features?
 - The constructor of the kNeighborsClassifier has an optional hyperparameter named n_neighbors, which by default is 5. How does the result change with different hyperparameter values?
 - Design a prototype or a wire frame that uses the AI-model and can be used by stakeholders. What elements should such a prototype contain?
 
